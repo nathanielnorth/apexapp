@@ -1,3 +1,4 @@
+ 
 **PRIVACY POLICY**
 
   
@@ -10,7 +11,7 @@ This privacy notice for Nathaniel North ('**we**', '**us**', or '**our**'), desc
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at newnorfolknorths@gmail.com.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at apexappointmentsextended@gmail.com.
 
   
 
@@ -297,7 +298,7 @@ We have implemented appropriate and reasonable technical and organisational secu
 
   
 
-We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at newnorfolknorths@gmail.com.
+We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at apexappointmentsextended@gmail.com.
 
   
 
@@ -331,7 +332,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
   
 
-If you have questions or comments about your privacy rights, you may email us at newnorfolknorths@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at apexappointmentsextended@gmail.com.
 
   
 
@@ -563,7 +564,7 @@ Depending upon the state where you live, you may also have the following rights:
 
   
 
-To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/957527f0-793a-45ea-a4e8-67343b0ec3a4), by emailing us at newnorfolknorths@gmail.com, or by referring to the contact details at the bottom of this document.
+To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/957527f0-793a-45ea-a4e8-67343b0ec3a4), by emailing us at apexappointmentsextended@gmail.com, or by referring to the contact details at the bottom of this document.
 
   
 
@@ -587,7 +588,7 @@ If you submit the request through an authorised agent, we may need to collect ad
 
   
 
-Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at newnorfolknorths@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
+Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at apexappointmentsextended@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
 
   
 
@@ -649,7 +650,7 @@ We may update this privacy notice from time to time. The updated version will be
 
   
 
-If you have questions or comments about this notice, you may email us at newnorfolknorths@gmail.com or contact us by post at:
+If you have questions or comments about this notice, you may email us at apexappointmentsextended@gmail.com or contact us by post at:
 
   
 
