@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/apexappstore.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Apex Appointments Extended               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free with IAP                             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Connects calendar, Contacts, maps and more.
+app_description                           : A calendar app connecting appointments with your Contacts, making interacting with your clients via the phone, text message, email and more easy.
 
 enable_smart_app_banner                   :                                           # Set to true to show a smart app banner at top of page on mobile devices.
 
