@@ -6,7 +6,7 @@ include_in_header: true
 
 # Apex: About
 
-Hi! I'm Nat 👋🏼
+<div style="text-align: center;">Hi! I'm Nat 👋🏼</p>div>
 
 Apex is the app I always wanted but could never find.
 
