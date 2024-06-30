@@ -6,7 +6,7 @@ include_in_header: true
 
 # Apex: About
 
-Hi! I'm Nat.
+Hi! I'm Nat 👋🏼
 
 Apex is the app I always wanted but could never find.
 
