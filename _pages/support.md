@@ -8,4 +8,4 @@ include_in_header: true
 
 FAQs go here
 
-<mailto:apexappointmentsextended@gmail.com>
+[Email feedback](mailto:apexappointmentsextended@gmail.com)
