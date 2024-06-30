@@ -4,7 +4,7 @@ title: What's New
 include_in_header: true
 ---
 
-# Apex: What's New - Changelog
+# Apex: Changelog
 
 <br>
 
