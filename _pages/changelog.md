@@ -6,8 +6,6 @@ include_in_header: true
 
 # Apex: Changelog
 
-<br>
-
 ### `Latest`
 # **Version 0.94 (beta)**
 Apex is still in beta, but has many improvements with this version.
