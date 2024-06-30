@@ -4,7 +4,7 @@ title: Help & Support
 include_in_header: true
 ---
 
-# Apex: Help & Support
+## Apex: Help & Support
 
 FAQs go here
 
