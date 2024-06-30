@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: true
 ---
  
- **PRIVACY POLICY**
+ # **PRIVACY POLICY**
 
 **Last updated June 28, 2024**
 
@@ -16,7 +16,7 @@ This privacy notice for Nathaniel North ('**we**', '**us**', or '**our**'), desc
 
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at apexappointmentsextended@gmail.com.
 
-**SUMMARY OF KEY POINTS**
+## **SUMMARY OF KEY POINTS**
 
 **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use.
 
@@ -36,7 +36,7 @@ This privacy notice for Nathaniel North ('**we**', '**us**', or '**our**'), desc
 
 Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#toc).
 
-**TABLE OF CONTENTS**
+## **TABLE OF CONTENTS**
 
 [1\. WHAT INFORMATION DO WE COLLECT?](#infocollect)
 
@@ -68,7 +68,7 @@ Want to learn more about what we do with any information we collect? [Review th
 
 [15\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
 
-**1\. WHAT INFORMATION DO WE COLLECT?**  
+## **1\. WHAT INFORMATION DO WE COLLECT?**  
 
 **Personal information you disclose to us**
 
@@ -88,7 +88,7 @@ This information is primarily needed to maintain the security and operation of o
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-**2\. HOW DO WE PROCESS YOUR INFORMATION?**
+## **2\. HOW DO WE PROCESS YOUR INFORMATION?**
 
 **_In Short:_** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
 
@@ -102,7 +102,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 *   **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
-**3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
+## **3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
 
 _**In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e. legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfil our contractual obligations, to protect your rights, or to fulfil our legitimate business interests._
 
@@ -152,7 +152,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 *   If the information is publicly available and is specified by the regulations
 
-**4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
+## **4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
 
 **_In Short:_** _We may share information in specific situations described in this section and/or with the following third parties._
 
@@ -164,7 +164,7 @@ We may need to share your personal information in the following situations:
 
 *   **Offer Wall.** Our application(s) may display a third-party hosted 'offer wall'. Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward.
 
-**5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
+## **5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
 
 **_In Short:_** _We may use cookies and other tracking technologies to collect and store your information._
 
@@ -176,7 +176,7 @@ To the extent these online tracking technologies are deemed to be a 'sale'/'shar
 
 Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
-**6\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+## **6\. HOW LONG DO WE KEEP YOUR INFORMATION?**
 
 **_In Short:_** _We keep your information for as long as necessary to fulfil the purposes outlined in this privacy notice unless otherwise required by law._
 
@@ -184,19 +184,19 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-**7\. HOW DO WE KEEP YOUR INFORMATION SAFE?**
+## **7\. HOW DO WE KEEP YOUR INFORMATION SAFE?**
 
 **_In Short:_** _We aim to protect your personal information through a system of organisational and technical security measures._
 
 We have implemented appropriate and reasonable technical and organisational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorised third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-**8\. DO WE COLLECT INFORMATION FROM MINORS?**
+## **8\. DO WE COLLECT INFORMATION FROM MINORS?**
 
 **_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
 
 We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at apexappointmentsextended@gmail.com.
 
-**9\. WHAT ARE YOUR PRIVACY RIGHTS?**
+## **9\. WHAT ARE YOUR PRIVACY RIGHTS?**
 
 **_In Short:_** _Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence._
 
@@ -214,13 +214,13 @@ However, please note that this will not affect the lawfulness of the processing 
 
 If you have questions or comments about your privacy rights, you may email us at apexappointmentsextended@gmail.com.
 
-**10\. CONTROLS FOR DO-NOT-TRACK FEATURES**
+## **10\. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ('DNT') feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognising and implementing DNT signals has been finalised. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
 California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognising or honouring DNT signals, we do not respond to them at this time.
 
-**11\. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+## **11\. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
 **_In Short:_** _If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Montana, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below._
 
@@ -376,7 +376,7 @@ Under certain US state data protection laws, if we decline to take action regard
 
 California Civil Code Section 1798.83, also known as the 'Shine The Light' law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)'
 
-**12\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?**
+## **12\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?**
 
 _**In Short:** You may have additional rights based on the country you reside in._
 
@@ -396,16 +396,16 @@ At any time, you have the right to request access to or correction of your perso
 
 If you believe we are unlawfully processing your personal information, you have the right to submit a complaint about a breach of the Australian Privacy Principles to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us) and a breach of New Zealand's Privacy Principles to the [Office of New Zealand Privacy Commissioner](https://www.privacy.org.nz/your-rights/making-a-complaint/).
 
-**13\. DO WE MAKE UPDATES TO THIS NOTICE?**
+## **13\. DO WE MAKE UPDATES TO THIS NOTICE?**
 
 _**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated 'Revised' date at the top of this privacy notice. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-**14\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
+## **14\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
 If you have questions or comments about this notice, you may email us at apexappointmentsextended@gmail.com.
 
-**15\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
+## **15\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
 Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request]
