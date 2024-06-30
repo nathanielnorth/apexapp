@@ -8,7 +8,7 @@ include_in_header: true
 
 <details>
   <summary>Does Apex support the chicken uprising?</summary>
-  no, we do not.
+  No, we do not.
 </details>
 
 [Email feedback](mailto:apexappointmentsextended@gmail.com)
