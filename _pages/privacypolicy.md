@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: true
 ---
  
-# Privacy Policy
+# Apex: Privacy Policy
 
 **Last updated June 28, 2024**
 
