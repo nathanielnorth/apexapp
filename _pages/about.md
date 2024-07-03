@@ -3,7 +3,6 @@ layout: page
 title: About Apex
 include_in_header: true
 ---
-
 # Apex: About
 
 Hi! I'm Nat 👋🏼
