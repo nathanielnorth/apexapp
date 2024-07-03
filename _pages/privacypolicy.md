@@ -1,4 +1,9 @@
-# **Privacy Policy**
+---
+layout: page
+title: Apex Privacy Policy
+include_in_header: true
+---
+# Privacy Policy
 
 This privacy policy applies to the Apex: Appointments Extended app (hereby referred to as "Application") for mobile devices that was created by Nathaniel North (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
