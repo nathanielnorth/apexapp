@@ -7,12 +7,14 @@ include_in_header: true
 
 Hi! I'm Nat 👋🏼
 
+Thanks for checking out Apex!
+
 Apex is the app I always wanted but could never find.
 
-I run a small service based business with clients scheduled via my iPhone calendar. Many client bookings are made months in advance, I found I was spending a lot of time writing texts and emails to remind clients of their booking and often looking up their Contact if I was running early or late for their appointment or finding directions to their location.
+In my day job I book clients in my iPhone calendar app. I realised I was constantly looking up a Contact to remind them of the upcoming appointment, or call them if I was running late, or get directions to their location. I'd always wanted a calendar app which would match a Contact with the calendar appointment and give me options from there.
 
-Apex solves these issues and reduces so much time by matching Contacts with calendar appointments. You can also build a template so with just a tap you can text or email a client reminding them of the appointment date and time and personalise the message using their name and other details.
+I started building Apex in May 2020 as the pandemic hit and I had more spare time. I'd never released an app before and had virtually no idea about writing iOS code. Since then Apex has slowly developed from a very rough proof of concept demo app to a simple calendar app with some unique features.
 
-I hope you find Apex useful too 😎
+I hope you find Apex usefull too 😀
 
-(Thanks to Ash my UI engineer for the helpful comments and opinions along the way.)
+(Thanks to Teen, Ben and Ash, my 13yo UI engineer for the helpful comments and opinions along the way)
