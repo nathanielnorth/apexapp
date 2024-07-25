@@ -24,7 +24,7 @@ With an interest in programming but little experience writing iOS code, I starte
 - Add a Contact to be matched to an appointment from within the appointment
 - Add custom data tags so commonly used information doesn't need to be repeatedly added to templates
 
-Comments and suggestions are welcome but please remember I'm a single developer not a corporation and all received emails run through a kindness filter. If the email is unkind, it gets deleted.
+Comments and suggestions are welcome but please remember I'm a single developer not a company. All received emails run through a kindness filter, if the email is unkind, it gets deleted.
 
 I hope you find Apex usefull too!
 
