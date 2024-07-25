@@ -18,7 +18,7 @@ With an interest in programming but little experience writing iOS code, I starte
 - A fully functional, short term calendar app with create, edit and delete appointment capabilities
 - Matches Contacts to names in calendar appointments
 - Detects phone numbers and email addresses
-- Builds texts or emails from editable templates using drag and drop data tags
+- Builds texts or emails from editable templates using drag and drop calendar and Contact data tags
 - Provides Apple or Google Maps street address location and directions
 - Edit any matched Contact
 - Add a Contact to be matched to an appointment from within the appointment
