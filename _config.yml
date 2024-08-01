@@ -10,10 +10,10 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/apexappstore.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Apex Appointments Extended               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free with IAP                             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : A calendar app connecting appointments with your Contacts, making interacting with your clients via the phone, text message, email and more easy.
+app_icon                                  : assets/apexappstore.png                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Apex                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Appointments Extended                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Transform your calendar into a communication tool with Apex. This intuitive, week-based calendar app effortlessly keeps you in touch with everyone in your schedule.
 
 enable_smart_app_banner                   :                                           # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,16 +36,16 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Smart appointments
+    description                           : Apex detects Contacts, phone numbers and email addresses in iOS calendar appointments then provides quick communication options
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Text & Email Templates
+    description                           : Drag and Drop Contact, calendar or even custom data tags into text and email templates. Send quick appointment reminders, or request job reviews and more from appointments
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Map support
+    description                           : Get map locations or directions
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
