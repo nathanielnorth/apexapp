@@ -57,7 +57,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 1.0
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/01.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#00BBFF"
 cover_overlay_transparency                : 1.0
 
