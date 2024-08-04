@@ -5,7 +5,7 @@ page_title                                :                                     
 ios_app_id                                : 1601037053                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : au                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/apex-appointments-extended/id1601037053  # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
@@ -13,16 +13,16 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/apexappstore.png                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Apex                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Appointments Extended                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Transform your calendar into a communication tool with Apex. This intuitive, week-based calendar app effortlessly keeps you in touch with everyone in your schedule.
+app_description                           : Transform your calendar into a communication tool with Apex. This intuitive, week-based calendar app effortlessly keeps you in touch with all your appointments.
 
-enable_smart_app_banner                   :                                           # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Nathaniel North                                
+your_name                                 :                                 
 your_link                                 :                      
-your_city                                 : Hobart, TAS                                
+your_city                                 :                              
 email_address                             : apexappointmentsextended@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -40,58 +40,32 @@ features                                  :
     description                           : Apex detects Contacts, phone numbers and email addresses in iOS calendar appointments then provides quick communication options
     fontawesome_icon_name                 : magic
     
-  - title                                 : Text & Email Templates
-    description                           : Drag and Drop Contact, calendar or even custom data tags into text and email templates. Send quick appointment reminders, or request job reviews and more from appointments
+  - title                                 : Quickly send text & emails from prebuilt templates
+    description                           : Send appointment reminders to a client, ask for a review or confirm the next booking without entering any text. Set up your template once and Apex will pull the data from your appointment, Contact or custom data tags
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Map support
-    description                           : Get map locations or directions
+  - title                                 : Build templates easily
+    description                           : Drag and Drop Contact, calendar or even custom data tags into text and email templates
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Maps
+    description                           : Choose Apple or Google Maps to find an appointment's location or get directions from a button tap
     fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_transparency                       : 1.0
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_color                       : "#00BBFF"
+cover_overlay_transparency                : 1.0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#00BBFF"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
