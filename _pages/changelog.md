@@ -22,10 +22,6 @@ This version is focused on bug fixes and improvements:
 - The thank you screen after purchasing Apex Plus is now improved
 - App Store promo image added
 
-Thanks for using Apex.
-
-
-
 ## **Version 1.0**
 
 #### Calendar features
