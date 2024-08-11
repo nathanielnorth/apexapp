@@ -6,6 +6,24 @@ include_in_header: true
 # Apex: Changelog
 
 ### `Latest`
+
+## **Version 1.01**
+
+This version is focused on bug fixes and improvements:
+
+#### Bug fixes
+- Swiping down on an iOS Contact sheet no longer loses the Contact match
+- Editing an appointment title or note now updates the Contact matches
+- When deleting a custom data tag the confirmation dialogue should no longer display in caps
+
+#### Improvements
+- When Apex Plus is purchased, the notification graphic in Settings now shows the plus background
+- A loading spinner now shows when fetching the IAP from the App Store
+- The thank you screen after purchasing Apex Plus is now improved
+- App Store promo image added
+
+Thanks for using Apex.
+
 ## **Version 1.0**
 
 #### Calendar features
