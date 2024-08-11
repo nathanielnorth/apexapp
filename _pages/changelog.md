@@ -24,6 +24,8 @@ This version is focused on bug fixes and improvements:
 
 Thanks for using Apex.
 
+
+
 ## **Version 1.0**
 
 #### Calendar features
