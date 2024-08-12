@@ -7,7 +7,6 @@ include_in_header: true
 
 ### `Latest`
 
-<!---
 ## **Version 1.01**
 
 This version is focused on bug fixes and improvements:
@@ -22,7 +21,6 @@ This version is focused on bug fixes and improvements:
 - A loading spinner now shows when fetching the IAP from the App Store
 - The thank you screen after purchasing Apex Plus is now improved
 - App Store promo image added
--->
 
 ## **Version 1.0**
 
