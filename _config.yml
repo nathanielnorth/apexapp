@@ -10,7 +10,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/apexappstore.png                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/180.png                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Apex                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Appointments Extended                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Transform your calendar into a communication tool with Apex. This intuitive, week-based calendar app effortlessly keeps you in touch with everyone in your appointments.
