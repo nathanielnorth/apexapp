@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Smart appointments
     description                           : Apex detects Contacts, phone numbers and email addresses in iOS calendar appointments then provides quick communication options
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : mobile
     
   - title                                 : Quickly send text & emails from prebuilt templates
     description                           : Send appointment reminders to a client, ask for a review or confirm the next booking without entering any text. Set up your template once and Apex will pull the data from your appointment, Contact or custom data tags
@@ -46,11 +46,11 @@ features                                  :
 
   - title                                 : Build templates easily
     description                           : Drag and Drop Contact, calendar or even custom data tags into text and email templates
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : mobile
 
   - title                                 : Maps
     description                           : Choose Apple or Google Maps to find an appointment's location or get directions from a button tap
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : mobile
 
 # Theme Settings
 topbar_color                              : "#000000"
