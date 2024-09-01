@@ -35,6 +35,9 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [RevenueCat](https://www.revenuecat.com/privacy)
+*   [TelemetryDeck](https://telemetrydeck.com/privacy/)
+
+We use TelemetryDeck to collect anonymized usage data. This helps us understand how our users are using our app and how we can improve it. TelemetryDeck does not collect any personally identifiable information. You can read more about TelemetryDeck’s privacy policy at https://telemetrydeck.com/privacy
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
