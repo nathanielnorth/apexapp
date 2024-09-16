@@ -7,7 +7,14 @@ include_in_header: true
 
 ### `Latest`
 
-## **Version 1.01**
+## **Version 1.02.0**
+
+iOS 18 update
+
+- Added support for dark mode and tinted app icons
+- Custom tag editor now displays multiline tag values
+
+## **Version 1.0.1**
 
 This version is focused on bug fixes and improvements:
 
