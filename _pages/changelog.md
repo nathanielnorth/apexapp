@@ -19,7 +19,8 @@ include_in_header: true
 - Travel time, details for repeating events and Alerts are now displayed
 
 #### Settings
-- Refreshed iconography for the Settings sheet.\nAdded Device Permissions Status for quick info
+- Refreshed iconography for the Settings sheet
+- Added Device Permissions Status for quick info
 - Improved the What's New/Release Notes screens
 - Added the ability to share Apex with others
 - Added ability to rate and review Apex
